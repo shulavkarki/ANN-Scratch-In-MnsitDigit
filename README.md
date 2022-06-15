@@ -2,7 +2,7 @@
 MNIST Digit image classifier built using Artificial Neural Network from Scratch with python and numpy.  
   
 ### Considerations:    
-1. OPTIMIZER : Gradient Descent  
+1. OPTIMIZER : Gradient Descent  || Mini-Batch Gradient Descent with Momentum || Mini-Batch GD with ADAGrad
 2. LEARNING RATE : 0.01  
 3. Epoch : 50 (Accuracy will boost on higher epochs.)
   
