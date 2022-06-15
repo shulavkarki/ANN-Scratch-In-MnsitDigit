@@ -1,10 +1,12 @@
 # ANN-Scratch-In-MnsitDigit
 MNIST Digit image classifier built using Artificial Neural Network from Scratch with python and numpy.  
-Considerations:    
+  
+### Considerations:    
 1. OPTIMIZER : Gradient Descent  
 2. LEARNING RATE : 0.01  
-3. Epoch : 50 (Accuracy will boost on higher epochs.)  
-Three ANN of different layers is used to classify images.
+3. Epoch : 50 (Accuracy will boost on higher epochs.)
+  
+#### Three ANN of different layers is used to classify images.
 
 1. One Hidden Layer 
   ![image](https://user-images.githubusercontent.com/40908371/173662434-a87069c7-049c-43be-959f-46b8a26986e5.png)
