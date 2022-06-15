@@ -34,5 +34,10 @@ MNIST Digit image classifier built using Artificial Neural Network from Scratch 
   Training Accuracy:  
   Testing Accuracy:   
   
+   -------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+   --------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+   
+
+  
 Note: In this notebook, i've trained only for few epochs. Since i'm using cpu to train my model, it is going to take time(a lot in more layers ANN).  
       So, if you want to get boost in the accuracy, train the model in more epochs. 
