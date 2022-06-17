@@ -1,11 +1,23 @@
 # ANN-Scratch-In-MnsitDigit
 MNIST Digit image classifier built using Artificial Neural Network from Scratch with python and numpy.  
   
-### Considerations:    
-1. OPTIMIZER : Gradient Descent  || Mini-Batch Gradient Descent with Momentum || Mini-Batch GD with ADAGrad
-2. LEARNING RATE : 0.01  
-3. Epoch : 50 (Accuracy will boost on higher epochs.)
+### Considerations: 
+1. Notebook-1:  
+  Layers: 1 , 2 and 4 ( MNIST Digit Image is trained in 3 different layers one with 1 Hidden Layer other with 2 and 4 Hidden layer. )  
+  OPTIMIZER : Gradient Descent  
+  LEARNING RATE : 0.01  
+  Epoch : 50 (Accuracy will boost on higher epochs.)
   
+  Note: Since, all the training is done in cpu.  So, until then, go get a cup of coffee.☕😃. Later we'll try in GPU.😉  
+  
+    
+2. Notebook-2:  
+  Layers: 2 ( MNIST Digit Image is trained with 2 Hidden Layer)  
+  OPTIMIZER : Mini-Batch Gradient Descent with Momentum 
+  LEARNING RATE : 0.01  
+  Epoch : 50 (Accuracy will boost on higher epochs.)
+  
+  Note: Since, all the training is done in cpu.  So, until then, go get a cup of coffee.☕😃. Later we'll try in GPU.😉
 #### Three ANN of different layers is used to classify images.
 
 1. One Hidden Layer 
