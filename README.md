@@ -16,7 +16,7 @@
 | 2 |     Gradient Descent          |  20  | 0.01 | 89.799% | 88.9111111%
 | 4 |     Gradient Descent          |  50  | 0.01 | 74.56% | 73.899%
   
-  Note: Since, all the training is done in cpu.  So, until then, go get a cup of coffee.☕😃. Later we'll try in GPU.😉  
+  Note: Since, all the training is done in cpu.  So, while training, go get yourself a cup of coffee.☕😃. Later we'll try in GPU.😉  
    
 #### 2. Notebook-2:  
 
