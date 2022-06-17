@@ -1,5 +1,4 @@
-<!-- <h1><center>ANN-Scratch-In-MnsitDigit</center></h1> -->
-  <h1 align="center">ARTIFICAL NEURAL NETWORK FROM SCRATCH</h1>
+<h2 align="center">Artifical Neural Networ From Scratch in Mnist-Digit</h2>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/40908371/174338354-46e0131d-184b-4768-a036-4b545914334d.png"  alt="Logo" width="300" height="200"/>
   <p>ANN Classifier used to classify MNIST Digit.</p>
