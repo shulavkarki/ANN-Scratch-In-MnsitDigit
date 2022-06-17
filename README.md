@@ -27,7 +27,7 @@
 #### 3. Notebook-3:  
 
 | Layers | Optimizer | Batch Size | Epoch | Learning Rate | Epsilon | Training Accuracy | Testing Accuracy |
-| --- | --- | --- | --- | --- | --- | --_ |
+| --- | --- | --- | --- | --- | --- | -- | -- |
 | 4 | Mini-Batch Gradient Descent with AdaGrad | 200 | 30 | 0.01 | 10e-8 | 81.085% | __%
 
 
