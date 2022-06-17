@@ -7,7 +7,7 @@ MNIST Digit image classifier built using Artificial Neural Network from Scratch 
 #### 1. Notebook-1 :  
 
 | Layers | Optimizer | Epoch | Learning Rate| Training Accuracy | Testing Accuracy |
-| --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 1 | Gradient Descent | 10 | 0.01 | 74.56% | 73.899%
 | 2 | Gradient Descent | 20 | 0.01 | 89.799% | 88.9111111%
 | 4 | Gradient Descent | 50 | 0.01 | 74.56% | 73.899%
