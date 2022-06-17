@@ -11,25 +11,22 @@ MNIST Digit image classifier built using Artificial Neural Network from Scratch 
 | 1 | Gradient Descent | 10 | 0.01 | 74.56% | 73.899%
 | 2 | Gradient Descent | 20 | 0.01 | 89.799% | 88.9111111%
 | 4 | Gradient Descent | 50 | 0.01 | 74.56% | 73.899%
-
-
-  Layers : 1 , 2 and 4 ( MNIST Digit Image is trained in 3 different layers one with 1 Hidden Layer other with 2 and 4 Hidden layer. )  
-  OPTIMIZER : Gradient Descent  
-  LEARNING RATE : 0.01  
-  Epoch : 50 (Accuracy will boost on higher epochs.)
   
   Note: Since, all the training is done in cpu.  So, until then, go get a cup of coffee.☕😃. Later we'll try in GPU.😉  
-  
-    
+   
 #### 2. Notebook-2:  
-  Layers : 2 ( MNIST Digit Image is trained with 2 Hidden Layer)  
-  OPTIMIZER : Mini-Batch Gradient Descent with Momentum 
-  LEARNING RATE : 0.01  
-  Epoch : 50 (Accuracy will boost on higher epochs.)
-  
-  Note: Since, all the training is done in cpu.  So, until then, go get a cup of coffee.☕😃. Later we'll try in GPU.😉
 
-  
+| Layers | Optimizer | Epoch | Learning Rate| Training Accuracy | Testing Accuracy |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Mini-Batch Gradient Descent with Momentum | 30 | 0.01 | 74.56% | 73.899%
+
+#### 3. Notebook-3:  
+
+| Layers | Optimizer | Epoch | Learning Rate| Training Accuracy | Testing Accuracy |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Mini-Batch Gradient Descent with AdaGrad | 30 | 0.01 | 74.56% | 73.899%
+
+
 #### Three ANN of different layers is used to classify images.
 
 1. One Hidden Layer 
