@@ -21,7 +21,7 @@ MNIST Digit image classifier built using Artificial Neural Network from Scratch 
  ![image](https://user-images.githubusercontent.com/40908371/173663019-e7d25df7-4111-4816-b694-cabe61d0f1a1.png)
      
   Results:  
-  Training Accuracy: 89.34% 
+  Training Accuracy: 89.34%   
   Testing Accuracy: 88.9932%    
    
    --------------------------------------------------------------------------------------------------------------------------------------------------------------------  
