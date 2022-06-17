@@ -1,4 +1,5 @@
-# ANN-Scratch-In-MnsitDigit
+
+<h1><center>ANN-Scratch-In-MnsitDigit</center></h1>
 MNIST Digit image classifier built using Artificial Neural Network from Scratch with python, numpy and pandas. 
   
 ### Considerations: 
