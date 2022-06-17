@@ -20,15 +20,15 @@
    
 #### 2. Notebook-2:  
 
-| Layers | Optimizer | Epoch | Learning Rate| Training Accuracy | Testing Accuracy |
-| --- | --- | --- | --- | --- | --- |
-| 2 | Mini-Batch Gradient Descent with Momentum | 30 | 0.01 | 74.56% | 73.899%
+| Layers | Optimizer | Batch Size | Epoch | Learning Rate| Training Accuracy | Testing Accuracy |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2 | Mini-Batch Gradient Descent with Momentum | 400 | 30 | 0.01 | 74.56% | 73.899%
 
 #### 3. Notebook-3:  
 
-| Layers | Optimizer | Epoch | Learning Rate| Training Accuracy | Testing Accuracy |
-| --- | --- | --- | --- | --- | --- |
-| 4 | Mini-Batch Gradient Descent with AdaGrad | 30 | 0.01 | 74.56% | 73.899%
+| Layers | Optimizer | Batch Size | Epoch | Learning Rate| Training Accuracy | Testing Accuracy |
+| --- | --- | --- | --- | --- | --- | --_ |
+| 4 | Mini-Batch Gradient Descent with AdaGrad | 200 | 30 | 0.01 | 74.56% | 73.899%
 
 
 #### Three ANN of different layers is used to classify images.
