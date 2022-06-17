@@ -1,7 +1,7 @@
 <!-- <h1><center>ANN-Scratch-In-MnsitDigit</center></h1> -->
 
 <p align="center">
-  <h2> ANN-Scratch-In-MnsitDigit</h2>
+  <font size=1> ANN-Scratch-In-MnsitDigit</font>
 <!--   <img src="http://some_place.com/image.png" /> -->
 </p>
 
