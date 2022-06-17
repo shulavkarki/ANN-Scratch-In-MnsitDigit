@@ -12,9 +12,9 @@
 
 | Layers | Optimizer | Epoch | Learning Rate| Training Accuracy | Testing Accuracy |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Gradient Descent | 10 | 0.01 | 74.56% | 73.899%
-| 2 | Gradient Descent | 20 | 0.01 | 89.799% | 88.9111111%
-| 4 | Gradient Descent | 50 | 0.01 | 74.56% | 73.899%
+| 1 |     Gradient Descent          |  10  | 0.01 | 74.56% | 73.899%
+| 2 |     Gradient Descent          |  20  | 0.01 | 89.799% | 88.9111111%
+| 4 |     Gradient Descent          |  50  | 0.01 | 74.56% | 73.899%
   
   Note: Since, all the training is done in cpu.  So, until then, go get a cup of coffee.☕😃. Later we'll try in GPU.😉  
    
