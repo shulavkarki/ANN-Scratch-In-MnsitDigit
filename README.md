@@ -1,7 +1,7 @@
 <!-- <h1><center>ANN-Scratch-In-MnsitDigit</center></h1> -->
   <h1 align="center">ANN-Scratch-In-MnsitDigit</h1>
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://user-images.githubusercontent.com/40908371/174338354-46e0131d-184b-4768-a036-4b545914334d.png)" />
+  <img src="http://some_place.com/image.png](https://user-images.githubusercontent.com/40908371/174338354-46e0131d-184b-4768-a036-4b545914334d.png" />
 </p>
 
 MNIST Digit image classifier built using Artificial Neural Network from Scratch with python, numpy and pandas. 
