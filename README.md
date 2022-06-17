@@ -28,7 +28,7 @@
 
 | Layers | Optimizer | Batch Size | Epoch | Learning Rate| Training Accuracy | Testing Accuracy |
 | --- | --- | --- | --- | --- | --- | --_ |
-| 4 | Mini-Batch Gradient Descent with AdaGrad | 200 | 30 | 0.01 | 74.56% | 73.899%
+| 4 | Mini-Batch Gradient Descent with AdaGrad | 200 | 30 | 0.01 | 81.085% | __%
 
 
 #### Three ANN of different layers is used to classify images.
