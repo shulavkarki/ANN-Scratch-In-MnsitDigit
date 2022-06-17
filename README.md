@@ -18,13 +18,13 @@ MNIST Digit image classifier built using Artificial Neural Network from Scratch 
 
 | Layers | Optimizer | Epoch | Learning Rate| Training Accuracy | Testing Accuracy |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Mini-Batch Gradient Descent with Momentum | 30 | 0.01 | 74.56% | 73.899%
+| 2 | Mini-Batch Gradient Descent with Momentum | 30 | 0.01 | 74.56% | 73.899%
 
 #### 3. Notebook-3:  
 
 | Layers | Optimizer | Epoch | Learning Rate| Training Accuracy | Testing Accuracy |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Mini-Batch Gradient Descent with AdaGrad | 30 | 0.01 | 74.56% | 73.899%
+| 4 | Mini-Batch Gradient Descent with AdaGrad | 30 | 0.01 | 74.56% | 73.899%
 
 
 #### Three ANN of different layers is used to classify images.
