@@ -4,7 +4,9 @@
   <p>ANN Classifier used to classify MNIST Digit.</p>
 </p>
 
-
+## Concepts/Things implemented in this Notebook:
+1. 
+  
 ### Considerations: 
   
   
