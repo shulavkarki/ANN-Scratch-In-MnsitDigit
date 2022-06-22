@@ -4,9 +4,11 @@
   <p>ANN Classifier used to classify MNIST Digit.</p>
 </p>
 
-## Concepts/Things implemented in this Notebook:
-1. 
-  
+### Concepts/Things implemented in this Notebook:
+1. Built Mnisit Digit Classifier with three different layers. (one with 1 layer, 2 layer and 4 layer).  
+2. Trained with different optimizers like GD with Momentum, AdaGrad and Adam.  
+3. Trained with GPU to boost training.  
+P.S.: Everything here is built with numpy, python and pandas."Scratch".  
 ### Considerations: 
   
   
