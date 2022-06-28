@@ -71,3 +71,7 @@ P.S.: Everything here is built with numpy, python and pandas."Scratch".
   
 Note : In this notebook, i've trained the model only for few epochs. Since i'm using cpu to train the model, it is going to take time(a lot in more layers ANN).
 So, if you want to get boost in the accuracy, train the model in more epochs. 
+
+  
+We'll use CNN in this same MNIST DIGIT dataset.   
+You can find repo [Here.](https://github.com/shulavkarki/Image-Classification-in-Custom-dataset)
